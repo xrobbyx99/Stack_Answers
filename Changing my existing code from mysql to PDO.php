@@ -1,3 +1,4 @@
+// bit.ly link = http://bit.ly/2aPoLOr
 <?php
 try 
 {
